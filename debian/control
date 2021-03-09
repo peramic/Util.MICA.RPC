@@ -1,0 +1,9 @@
+Source: mica-rpc
+Maintainer: HARTING IT_SD <opensource@HARTING.com>
+Build-Depends: libwebsockets-dev, debhelper
+
+Package: mica-rpc
+Architecture: any
+Maintainer: HARTING IT_SD <opensource@HARTING.com>
+Depends: libwebsockets8
+Description: MICA RPC Executable
